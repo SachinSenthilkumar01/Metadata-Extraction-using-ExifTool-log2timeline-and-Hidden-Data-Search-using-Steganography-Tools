@@ -1,4 +1,4 @@
-<img width="1394" height="1128" alt="ChatGPT Image Sep 7, 2026, 09_16_02 PM" src="https://github.com/user-attachments/assets/203c9c50-79fa-4ea9-b412-b1ab0ee28e29" /># Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
 ## AIM:
 To extract metadata, perform timeline analysis, and search for hidden data using forensic tools like ExifTool, log2timeline, and steganography detection tools.
 ## REQUIREMENTS
@@ -98,6 +98,7 @@ binwalk /home/kali/Downloads/wallpaper.jpg
 <img width="702" height="409" alt="IMG 9" src="https://github.com/user-attachments/assets/e77ad18a-7fdc-42ad-bec0-a779893730e7" />
 <img width="703" height="505" alt="IMG 10" src="https://github.com/user-attachments/assets/942f7d75-afa0-4c3c-b6cd-f2354f160ca3" />
 <img width="1467" height="1072" alt="IMG 7" src="https://github.com/user-attachments/assets/f4a04c97-8b45-4a0d-9b8c-a44865ac4b81" />
+
 
 
 
