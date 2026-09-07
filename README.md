@@ -1,4 +1,4 @@
-# Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+<img width="1394" height="1128" alt="ChatGPT Image Sep 7, 2026, 09_16_02 PM" src="https://github.com/user-attachments/assets/203c9c50-79fa-4ea9-b412-b1ab0ee28e29" /># Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
 ## AIM:
 To extract metadata, perform timeline analysis, and search for hidden data using forensic tools like ExifTool, log2timeline, and steganography detection tools.
 ## REQUIREMENTS
@@ -89,6 +89,18 @@ binwalk suspicious.jpg
 ```bash
 binwalk /home/kali/Downloads/wallpaper.jpg
 ```
+### OUTPUT
+<img width="1394" height="1128" alt="IMG 1" src="https://github.com/user-attachments/assets/a7a2839e-67da-487a-93f7-c1a8548b2705" />
+<img width="1394" height="1128" alt="IMG 2" src="https://github.com/user-attachments/assets/3e2f46b3-9dbf-4a47-8548-219e7b7ac6a7" />
+<img width="2170" height="725" alt="IMG 3" src="https://github.com/user-attachments/assets/1adada0c-e8d1-4113-92d3-d05a1875dae1" />
+<img width="1466" height="1073" alt="IMG 5" src="https://github.com/user-attachments/assets/c329e8d3-10ca-4dbe-8a39-630513e8aa1d" />
+<img width="748" height="411" alt="IMG 8" src="https://github.com/user-attachments/assets/b5a4cbcf-d42f-4d45-a77f-6526cc098e98" />
+<img width="702" height="409" alt="IMG 9" src="https://github.com/user-attachments/assets/e77ad18a-7fdc-42ad-bec0-a779893730e7" />
+<img width="703" height="505" alt="IMG 10" src="https://github.com/user-attachments/assets/942f7d75-afa0-4c3c-b6cd-f2354f160ca3" />
+<img width="1467" height="1072" alt="IMG 7" src="https://github.com/user-attachments/assets/f4a04c97-8b45-4a0d-9b8c-a44865ac4b81" />
+
+
+
 
 
 ## RESULT:
